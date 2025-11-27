@@ -1,0 +1,226 @@
+Food_Item,Category,Calories(kcal),Protein(g),Carbs(g),Fat(g),Sugar(g),Sodium(mg),Meal_Type
+Nasi Lemak,Rice,610,16,57,32,4,900,Breakfast
+Mee Goreng Mamak,Noodles,480,18,60,20,5,780,Lunch
+Roti Canai,Bread,320,8,40,12,3,450,Breakfast
+Char Kuey Teow Penang,Noodles,740,22,65,38,6,1180,Lunch
+Nasi Goreng Kampung,Rice,560,14,70,20,5,980,Dinner
+Hainanese Chicken Rice,Rice,490,32,52,18,3,850,Lunch
+Curry Laksa Johor,Noodles,650,21,55,30,5,920,Lunch
+Banana Leaf Rice,Rice,820,20,95,32,4,1000,Lunch
+Satay Ayam (10 sticks),Meat,450,32,20,28,6,650,Dinner
+Cendol,Dessert,280,4,56,7,38,120,Snack
+Teh Tarik,Beverage,150,4,26,4,20,45,Snack
+Milo Kosong Ice,Beverage,80,4,16,1,14,60,Snack
+Maggi Goreng,Noodles,520,12,68,18,5,1000,Dinner
+Ayam Goreng Berempah,Meat,350,28,10,20,1,850,Lunch
+Nasi Kandar,Rice,780,35,65,38,5,1200,Dinner
+Rojak Buah,Salad,310,9,50,9,22,480,Snack
+Pisang Goreng (5 pcs),Snack,340,3,45,18,12,350,Snack
+Nasi Kerabu,Rice,450,20,55,12,3,780,Lunch
+Nasi Briyani Kambing,Rice,780,30,72,32,4,1100,Dinner
+Asam Laksa Penang,Noodles,430,18,52,14,6,720,Lunch
+Roti Jala dengan Kari Ayam,Bread,380,15,48,14,5,680,Lunch
+Murtabak Ayam,Bread,680,28,55,34,4,950,Dinner
+Soto Ayam,Soup,290,22,28,12,3,820,Lunch
+Kuih Talam,Dessert,180,2,32,5,18,80,Snack
+Apam Balik Kacang,Snack,420,10,58,18,22,220,Snack
+Yong Tau Foo (7 pcs),Mixed,380,24,32,18,6,1100,Lunch
+Popia Basah,Snack,220,12,26,8,4,580,Snack
+Otak-Otak (5 pcs),Seafood,300,18,15,20,2,720,Snack
+Kuih Ketayap,Dessert,160,3,28,5,16,60,Snack
+Teh Ais,Beverage,120,3,24,2,20,40,Snack
+Kopi O Kaw,Beverage,5,0,1,0,0,10,Snack
+Rendang Daging,Meat,580,38,12,42,2,920,Dinner
+Ikan Bakar dengan Air Asam,Seafood,420,40,18,22,4,880,Dinner
+Sambal Belacan (per serving),Condiment,45,2,6,2,3,620,Condiment
+Kuih Lapis,Dessert,200,3,36,6,20,90,Snack
+Bubur Cha Cha,Dessert,320,4,52,10,28,110,Snack
+Pulut Inti,Dessert,240,4,42,8,18,70,Snack
+Lor Bak,Meat,480,22,28,32,3,980,Lunch
+Chee Cheong Fun with Shrimp Paste,Noodles,320,10,48,10,8,720,Breakfast
+Nasi Dagang,Rice,580,24,68,22,3,850,Lunch
+Lontong,Soup,480,18,62,18,5,920,Breakfast
+Mee Rebus,Noodles,550,16,72,20,10,1100,Lunch
+Mee Siam,Noodles,460,14,64,16,8,980,Lunch
+Pasembur,Salad,580,20,58,28,12,1200,Snack
+Kerabu Maggi,Salad,420,12,56,18,6,950,Snack
+Sup Tulang,Meat,380,32,15,22,2,1100,Dinner
+Ayam Percik,Meat,520,42,18,30,4,980,Dinner
+Ikan Patin Masak Tempoyak,Seafood,480,38,20,28,3,820,Dinner
+Kari Kepala Ikan,Seafood,620,45,22,38,4,1150,Lunch
+Nasi Ulam,Rice,420,18,58,12,4,680,Lunch
+Kuih Bakar,Dessert,260,5,38,10,20,100,Snack
+Onde-Onde (5 pcs),Dessert,300,4,48,12,22,120,Snack
+Kuih Seri Muka,Dessert,220,3,36,8,18,85,Snack
+Teh C Peng,Beverage,180,4,36,3,28,50,Snack
+Sirap Bandung,Beverage,160,3,38,1,34,45,Snack
+Air Mata Kucing,Beverage,140,1,34,0,30,20,Snack
+Kopi Ais,Beverage,110,3,22,2,18,40,Snack
+Mee Hailam,Noodles,580,24,62,22,6,1050,Lunch
+Mee Jawa,Noodles,510,18,68,18,8,980,Lunch
+Hokkien Mee KL,Noodles,680,26,70,28,5,1200,Dinner
+Wat Tan Hor,Noodles,620,22,68,26,4,1100,Dinner
+Yin Yong,Noodles,640,24,72,24,5,1150,Dinner
+Kuey Teow Kungfu,Noodles,590,20,66,22,4,1000,Lunch
+Mee Bandung Muar,Noodles,550,22,64,20,7,1080,Lunch
+Nasi Ayam Penyet,Rice,680,38,58,32,4,1100,Lunch
+Nasi Lemak Sambal Sotong,Rice,680,22,62,34,6,1050,Breakfast
+Roti John,Snack,580,28,48,30,5,980,Lunch
+Ramly Burger Spesial,Snack,720,32,52,38,8,1200,Snack
+Kuih Lopes,Dessert,240,3,46,6,20,80,Snack
+Pulut Tai Tai,Dessert,280,4,50,8,22,90,Snack
+Kuih Dadar,Dessert,180,3,30,6,16,70,Snack
+Bubur Kacang Hijau,Dessert,260,8,48,4,24,100,Snack
+Ais Kacang Special,Dessert,380,6,72,8,48,130,Snack
+Kuih Cara Berlauk,Snack,220,10,24,12,3,620,Snack
+Kuih Akok,Dessert,200,5,28,10,14,110,Snack
+Nasi Kukus Ayam Goreng,Rice,620,36,62,24,4,980,Lunch
+Tom Yum Seafood,Soup,320,28,22,14,6,1300,Dinner
+Kangkung Belacan,Vegetable,180,6,18,12,4,720,Lunch
+Pucuk Paku Goreng,Vegetable,160,5,14,10,2,580,Lunch
+Ulam Raja dengan Sambal,Salad,90,4,12,3,4,550,Side
+Telur Dadar,Side,220,14,2,18,1,680,Side
+Sambal Tumis Ikan Bilis,Condiment,180,12,10,12,4,920,Condiment
+Acar Timun,Side,80,2,16,1,12,480,Side
+Tauhu Sumbat,Snack,280,14,24,16,6,780,Snack
+Cucur Udang,Snack,320,10,38,16,4,820,Snack
+Jemput-Jemput Pisang,Snack,260,3,42,10,18,120,Snack
+Keria Gula Melaka,Snack,300,4,48,12,24,140,Snack
+Karipap Sardin,Snack,280,8,32,14,3,680,Snack
+Samosa Daging,Snack,320,10,34,16,2,720,Snack
+Roti Tissue,Snack,480,6,68,20,28,180,Snack
+Roti Bom,Snack,550,10,72,24,30,220,Snack
+Mee Rojak,Salad,520,16,64,22,12,1100,Snack
+Sotong Kangkung,Salad,380,20,38,18,10,980,Snack
+Laksa Sarawak,Noodles,580,20,66,24,6,920,Breakfast
+Kolo Mee,Noodles,480,18,58,20,4,880,Breakfast
+Sarawak Laksa,Noodles,620,22,68,26,6,980,Breakfast
+Kueh Chap,Soup,550,28,58,22,3,1100,Lunch
+Mee Siput,Snack,180,6,28,6,2,420,Snack
+Belacan Beehoon,Snack,420,14,56,16,4,920,Snack
+Kuih Jala Ros,Snack,200,3,36,6,20,90,Snack
+Kuih Jongkong,Dessert,220,4,38,8,18,100,Snack
+Kuih Bongkong,Dessert,240,4,42,8,20,110,Snack
+Pengat Pisang,Dessert,300,4,52,8,30,120,Snack
+Kuih Kaswi,Dessert,180,2,36,4,20,80,Snack
+Kuih Kapit (Love Letter),Snack,120,2,20,4,10,60,Snack
+Bahulu,Snack,100,3,16,3,8,50,Snack
+Kuih Bangkit,Snack,140,2,22,5,10,70,Snack
+Rempeyek Kacang,Snack,200,8,18,12,2,580,Snack
+Kuih Siput Manis,Snack,180,3,28,7,14,90,Snack
+Kuih Loyang (Rosette),Snack,160,2,24,6,12,80,Snack
+Kuih Goyang,Snack,170,3,26,6,14,85,Snack
+Kuih Rose,Snack,150,2,24,5,12,75,Snack
+Kuih Bahulu Cermai,Snack,110,3,18,3,9,55,Snack
+Kuih Makmur,Dessert,220,4,30,10,16,100,Snack
+Kuih Semperit,Dessert,180,3,24,9,12,90,Snack
+Tart Nenas,Snack,200,2,30,8,18,110,Snack
+Kuih Batang Buruk,Snack,190,3,32,7,16,95,Snack
+Kuih Gelang,Snack,170,2,28,6,14,80,Snack
+Kuih Penyaram,Snack,210,3,36,8,20,100,Snack
+Kuih Cincin,Snack,180,2,30,6,16,85,Snack
+Kuih Sapit,Snack,160,2,26,5,12,75,Snack
+Kuih Sejuk,Snack,140,2,24,4,14,70,Snack
+Kuih Gomok,Snack,200,3,34,7,18,90,Snack
+Kuih Peneram,Snack,220,4,36,8,20,100,Snack
+Kuih Karas,Snack,180,3,28,7,14,85,Snack
+Kuih Lidah Buaya,Snack,150,2,26,4,16,70,Snack
+Kuih Bulu Ayam,Snack,170,2,30,5,18,80,Snack
+Kuih Bunga Cina,Snack,160,2,28,5,16,75,Snack
+Kuih Keria,Snack,280,4,44,10,24,130,Snack
+Kuih Koleh Kacang,Snack,240,6,38,9,20,110,Snack
+Kuih Tepung Pelita,Dessert,200,3,36,6,22,90,Snack
+Kuih Talam Berlauk,Snack,250,10,28,12,4,680,Snack
+Kuih Cara Manis,Dessert,180,2,34,5,20,80,Snack
+Kuih Kochi,Snack,220,4,36,8,18,95,Snack
+Kuih Apam Gula Hangus,Dessert,190,3,34,6,22,85,Snack
+Kuih Puteri Ayu,Dessert,170,3,28,6,18,80,Snack
+Kuih Seri Ayu,Dessert,180,3,30,6,20,85,Snack
+Kuih Lopes Durian,Dessert,320,4,54,10,32,130,Snack
+Kuih Wajik,Dessert,260,3,50,6,28,100,Snack
+Kuih Dodol,Dessert,300,3,56,8,34,120,Snack
+Kuih Batang Buruk Durian,Dessert,340,4,58,10,36,140,Snack
+Kuih Melaka,Dessert,280,4,48,9,26,110,Snack
+Kuih Tayar,Snack,200,3,34,7,18,90,Snack
+Kuih Koci Pulut Hitam,Dessert,240,4,42,8,20,100,Snack
+Kuih Angkoo,Dessert,180,3,34,5,18,80,Snack
+Kuih Bakar Berlauk,Snack,280,12,30,14,4,720,Snack
+Kuih Kapit Durian,Snack,220,3,36,8,20,100,Snack
+Kuih Putu Piring,Dessert,200,4,38,6,18,90,Snack
+Kuih Putu Bambu,Dessert,180,3,36,5,20,85,Snack
+Kuih Tepung Bungkus,Dessert,210,3,38,7,22,95,Snack
+Kuih Cucur Badak,Snack,240,6,36,10,8,680,Snack
+Kuih Cucur Jawa,Snack,260,4,44,9,20,110,Snack
+Kuih Popia Goreng,Snack,220,8,26,12,3,620,Snack
+Kuih Kasturi,Snack,190,3,32,7,16,90,Snack
+Kuih Pelita,Snack,200,3,36,6,20,85,Snack
+Kuih Jongkong Surabaya,Dessert,230,4,40,8,22,100,Snack
+Kuih Kohong,Snack,180,2,32,6,18,80,Snack
+Kuih Tepung Gomok,Snack,210,3,36,7,20,90,Snack
+Kuih Gula Melaka,Snack,250,3,46,7,28,110,Snack
+Kuih Tepung Pasung,Dessert,190,3,34,6,20,85,Snack
+Kuih Talam Pandan,Dessert,200,3,36,6,22,90,Snack
+Kuih Talam Ubi,Dessert,220,3,40,6,24,95,Snack
+Kuih Talam Keladi,Dessert,210,3,38,6,22,90,Snack
+Kuih Talam Cendol,Dessert,280,4,50,8,32,110,Snack
+Kuih Seri Muka Pandan,Dessert,230,3,40,7,20,90,Snack
+Kuih Seri Muka Durian,Dessert,300,4,48,10,28,120,Snack
+Kuih Bakul,Snack,180,3,32,6,16,80,Snack
+Kuih Lapis Pandan,Dessert,200,3,36,6,20,90,Snack
+Kuih Lapis Surabaya,Dessert,240,4,40,9,22,100,Snack
+Kuih Lapik,Snack,170,2,30,5,18,75,Snack
+Kuih Onde-Onde Pandan,Dessert,300,4,48,12,22,120,Snack
+Kuih Koci Santan,Dessert,260,4,44,9,20,110,Snack
+Kuih Puteri Mandi,Dessert,220,3,38,7,22,95,Snack
+Kuih Buah Melaka,Dessert,280,4,46,10,24,110,Snack
+Kuih Nagasari,Dessert,200,3,38,6,20,85,Snack
+Kuih Bingka Ubi,Dessert,280,4,48,9,22,110,Snack
+Kuih Bingka Pandan,Dessert,260,3,46,8,24,100,Snack
+Kuih Bingka Jagung,Dessert,240,4,44,7,20,95,Snack
+Kuih Kasui Gula Melaka,Dessert,220,3,40,6,26,90,Snack
+Kuih Tepung Bungkus Inti Kelapa,Dessert,240,4,42,8,20,100,Snack
+Kuih Tepung Talam Kelapa,Dessert,210,3,38,6,22,90,Snack
+Kuih Talam Beras,Dessert,190,3,36,5,20,85,Snack
+Kuih Talam Jagung,Dessert,230,4,40,7,22,95,Snack
+Kuih Talam Sukatan,Dessert,200,3,36,6,20,90,Snack
+Kuih Talam Kuala Lumpur,Dessert,220,3,38,7,22,95,Snack
+Kuih Talam Klang,Dessert,240,4,40,8,24,100,Snack
+Kuih Talam Kelantan,Dessert,210,3,38,6,22,90,Snack
+Kuih Talam Terengganu,Dessert,230,4,40,7,22,95,Snack
+Kuih Talam Sarawak,Dessert,220,3,38,7,20,90,Snack
+Kuih Talam Sabah,Dessert,240,4,40,8,24,100,Snack
+Nasi Lemak Biasa,Rice,480,12,52,24,3,780,Breakfast
+Nasi Lemak Special,Rice,720,24,65,36,6,1100,Breakfast
+Nasi Lemak Ayam Goreng,Rice,680,34,58,32,4,1000,Breakfast
+Nasi Lemak Rendang,Rice,780,38,62,40,5,1200,Breakfast
+Nasi Lemak Sambal Kerang,Rice,650,20,58,30,5,980,Breakfast
+Nasi Lemak Ikan Bilis,Rice,550,16,55,26,4,900,Breakfast
+Nasi Lemak Telur Mata,Rice,520,14,52,28,3,850,Breakfast
+Nasi Lemak Sambal Sotong,Rice,680,22,60,34,6,1050,Breakfast
+Nasi Lemak Paru,Rice,720,30,58,38,4,1150,Breakfast
+Nasi Lemak Ayam Masak Merah,Rice,700,36,60,32,5,1080,Breakfast
+Mee Goreng Biasa,Noodles,450,16,58,18,4,750,Lunch
+Mee Goreng Special,Noodles,580,22,65,24,6,980,Lunch
+Mee Goreng Seafood,Noodles,620,28,62,26,5,1100,Lunch
+Mee Goreng Daging,Noodles,550,24,60,22,5,950,Lunch
+Mee Goreng Ayam,Noodles,520,20,62,20,4,880,Lunch
+Mee Goreng Telur,Noodles,480,18,60,18,4,800,Lunch
+Char Kuey Teow Biasa,Noodles,680,20,62,34,5,1100,Lunch
+Char Kuey Teow Special,Noodles,820,26,68,42,6,1300,Lunch
+Char Kuey Teow Kerang,Noodles,780,30,65,38,5,1250,Lunch
+Char Kuey Teow Seafood,Noodles,850,32,70,44,6,1350,Lunch
+Roti Canai Kosong,Bread,280,7,38,10,2,400,Breakfast
+Roti Canai Telur,Bread,360,10,42,14,3,480,Breakfast
+Roti Canai Sardin,Bread,420,12,44,18,4,620,Breakfast
+Roti Canai Bawang,Bread,320,8,42,12,3,450,Breakfast
+Roti Canai Pisang,Bread,380,8,52,12,18,420,Breakfast
+Roti Canai Kaya,Bread,400,8,56,14,24,450,Breakfast
+Roti Canai Cheese,Bread,420,12,46,18,6,580,Breakfast
+Roti Canai Planta,Bread,380,7,48,16,12,480,Breakfast
+Roti Canai Paper,Bread,320,6,44,12,10,400,Breakfast
+Roti Canai Boom,Bread,480,8,62,20,20,520,Breakfast
+Roti Canai Susu,Bread,360,8,48,14,16,460,Breakfast
+Roti Canai Milo,Bread,420,10,58,16,24,520,Breakfast
+Roti Canai Tissue Gula,Bread,520,6,72,22,32,200,Snack
+Roti Canai Tissue Milo,Snack,580,8,78,24,38,240,Snack
+Roti Canai Tissue Kaya,Snack,550,7,74,22,36,220,Snack
